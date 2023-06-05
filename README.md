@@ -1,7 +1,7 @@
 # myCNC
 A low cost diy mill cnc. The original idea was create a mill cnc to create my own pcb's (naive of me). 
 
-~~picture~~
+![ff](3D/picture1.png)
 
 ## ~~Initial~~ specifications
 1. Easy to mount
